@@ -1,2 +1,2 @@
 This is a experiment.
-Fork from keepass using Rust
+Fork from keepassXC using Rust
